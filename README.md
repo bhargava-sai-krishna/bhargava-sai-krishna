@@ -21,11 +21,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargava-sai-krishna&show_icons=true&locale=en" alt="bhargava-sai-krishna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargava-sai-krishna&" alt="bhargava-sai-krishna" /></p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/bhargava-sai-krishna/bhargava-sai-krishna/blob/output/github-contribution-grid-snake.gif)
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
