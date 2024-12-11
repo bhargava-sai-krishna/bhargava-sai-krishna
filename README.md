@@ -21,8 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargava-sai-krishna&show_icons=true&locale=en" alt="bhargava-sai-krishna" /></p>
 
+<img src="https://raw.githubusercontent.com/bhargava-sai-krishna/bhargava-sai-krishna/output/snake.svg" alt="Snake animation" />
 
-![snake gif](https://github.com/bhargava-sai-krishna/bhargava-sai-krishna/blob/output/github-contribution-grid-snake.gif)
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
